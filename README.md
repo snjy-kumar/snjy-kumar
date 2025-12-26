@@ -1,54 +1,219 @@
-# 👋 Hi there, I'm Sanjay Kumar Thakur
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Sanjay%20Kumar%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20JavaScript%20Developer&descSize=20&descAlignY=55"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/snjy-kumar?label=Follow&style=social)](https://github.com/snjy-kumar)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?label=Follow&style=social)](https://twitter.com/sanjay_kumar80)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+web+applications;MERN+Stack+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+reality+with+code)](https://git.io/typing-svg)
+
+<br/>
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> **About Me**
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  workingOn: string;
+  learning: string[];
+  askMeAbout: string[];
+}
+
+const sanjay: Developer = {
+  name: "Sanjay Kumar Thakur",
+  role: "Full Stack JavaScript Developer",
+  location: "India",
+  workingOn: "Production-grade MERN apps",
+  learning: [
+    "System Design",
+    "Cloud Architecture", 
+    "DevOps"
+  ],
+  askMeAbout: [
+    "React", "Node.js", "MongoDB",
+    "Next.js", "TypeScript", "REST APIs"
+  ]
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+<picture>
+
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
+<br/>
+
+<img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
+<br/><br/>
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🔭 | **Currently:** Building production-ready web apps |
+| 🌱 | **Learning:** System Design & DevOps |
+| 💬 | **Ask Me:** React, Node.js, MongoDB |
+| ⚡ | **Fun Fact:** I debug with console.log |
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💭 Developer's Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 
+</div>
 
-
-## 👨‍💻 About Me
-
-Full-Stack JavaScript Developer passionate about building scalable web applications and exploring cutting-edge technologies. I specialize in creating robust frontend experiences and efficient backend systems using the JavaScript ecosystem Like MERN Stack.
-
+---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Frontend
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,materialui,html,css,sass&theme=dark" alt="Frontend Skills"/>
 
 ### Backend
-![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=flat)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs&theme=dark" alt="Backend Skills"/>
 
 ### Database & ORM
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 
-### Testing & Tools
-![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,mysql&theme=dark" alt="Database Skills"/>
 
-## 📈 GitHub Stats
+### Tools & DevOps
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snjy-kumar&show_icons=true&theme=radical)](https://github.com/snjy-kumar)
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,linux,vercel,aws&theme=dark" alt="Tools"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snjy-kumar&layout=compact&theme=radical)](https://github.com/snjy-kumar)
+</div>
 
+<div align="center">
 
-## 🤝 Connect with Me
+## 🌐 Let's Connect 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-kumar-thakur)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanjay_kumar80)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanjaynetwork.tech)
+  <a href="https://linkedin.com/in/sanjay-kumar-thakur">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/sanjay_kumar80">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="mailto:sanjay17126@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/snjy-kumar">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.sanjaykumarthakur.me/">
+    <img src="https://skillicons.dev/icons?i=htmx" />
+  </a>
+
+</div>
+
 ---
-⭐️ From [Sanjay Kumar Thakur](https://github.com/snjy-kumar)
+
+<div align="center">
+
+## 💭 Developer's Philosophy
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+</td>
+<td align="center" width="50%">
+
+> *"The best error message is the one that never shows up."*
+> 
+> — Thomas Fuchs
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting!
+
+<sub>If you like my work, consider giving a ⭐ to my repositories!</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=120&section=footer"/>
+
+</div>
+
+---
+
+<details>
+<summary>🐍 <b>Setup Snake Animation</b> (Click to expand)</summary>
+
+<br/>
+
+Create `.github/workflows/snake.yml` in your repository:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: snjy-kumar
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then run the workflow manually from Actions tab.
+
+</details>
