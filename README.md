@@ -46,9 +46,9 @@ const sanjay: Developer = {
 <td width="50%" valign="top">
 
 <picture>
-
-<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snjy-kumar/snjy-kumar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snjy-kumar/snjy-kumar/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="Snake animation" width="100%" src="https://raw.githubusercontent.com/snjy-kumar/snjy-kumar/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 <br/>
